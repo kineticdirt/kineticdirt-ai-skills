@@ -5,4 +5,8 @@ skills:
     title: Example skill
     path: skills/example-skill
     tags: [template, cursor]
-subagents: []
+subagents:
+  - id: code-explorer
+    title: Read-only codebase exploration
+    path: subagents/code-explorer.md
+    tags: [explore, readonly, handoff]
