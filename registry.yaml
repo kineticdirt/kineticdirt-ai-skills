@@ -1,0 +1,8 @@
+# Index of skills and subagents (extend as you add entries)
+version: 1
+skills:
+  - id: example-skill
+    title: Example skill
+    path: skills/example-skill
+    tags: [template, cursor]
+subagents: []
